@@ -1,2 +1,2 @@
 # cpp_primer
-Exercise from "C++ Primer"
+Exercises from "C++ Primer" 5th edition.
